@@ -22,7 +22,7 @@ PMFとは「製品（サービスや商品）が特定の市場において適�
 - STEP1. Idea Verification：アイデアが本当にスタートアップにふさわしいものかを検証する
 - STEP2. Customer Problem Fit：スタートアップが抱える課題と顧客（カスタマー）が抱える課題が一致しているか確認する段階
 - STEP3. Problem Solution Fit：ステップ２で実在を確かめた課題の解決策を描く
-- STEP4. 「人が欲しがるものを作る」段階．実際に製品をテスト販売し，ユーザーの反応を探る
+- STEP4. Product Market Fit：「人が欲しがるものを作る」段階．実際に製品をテスト販売し，ユーザーの反応を探る
 
 ![image](./images/process-pmf.drawio.png)
 
